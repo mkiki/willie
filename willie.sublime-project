@@ -3,6 +3,62 @@
     {
       "path": ".",
       "folder_exclude_patterns": ["node_modules", "dist", "build" ]
-    }
+    },
+    {
+      "path": "../wg-log",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-utils",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-collections",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-streams",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-id3",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-exif",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-thumbs",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-discogs",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-database",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../wg-scanner",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../willie-core",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../willie-photos",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../willie-treeregister",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
+    {
+      "path": "../willie-miouzik",
+      "folder_exclude_patterns": ["node_modules", "dist", "build" ]
+    },
   ]
 }
