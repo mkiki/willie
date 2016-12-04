@@ -1,0 +1,30 @@
+{
+  "name": "willie",
+  "version": "1.3.0",
+  "description": "Willie Media Player",
+  "author": "Alexandre Morin <aggmorin@gmail.com>",
+  "license": "MIT",
+  "private":            true,
+  "scripts": {
+    "start": "node lib/willie.js core web",
+    "debug": "iron-node lib/willie.js core web",
+    "debug-mocha": "iron-node node_modules/mocha/bin/_mocha"
+  },
+  "main": "lib/willie.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkiki/willie.git"
+  },
+  "dependencies": {
+    "extend":           "~3.0.0",
+    "wg-log": "*",
+    "wg-database": "*",
+    "willie-core": "*",
+    "willie-photos": "*",
+    "willie-treeregister": "*",
+    "willie-miouzik": "*"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4"
+  }
+}

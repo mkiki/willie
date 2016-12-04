@@ -1,0 +1,8 @@
+{
+  "env":          "dev",
+  "cnx":          "postgres://db_user:db_password@db_host/db_name",
+  "web": {
+    "port":       3000
+  },
+  "mapsAPIKey":   "<< enter your google maps API Key here >>"
+}

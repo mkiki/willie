@@ -1,0 +1,10 @@
+{
+  "thumbsDir":    "/Users/alex/thumbs",
+  
+  "collections": [
+    { "id":0,   "name":"Downloads (Macbook)",   "folder":"/Users/amorin/Downloads",   "owner":"nobody"  },
+    { "id":1,   "name":"Desktop (Macbook)",     "folder":"/Users/amorin/Desktop",     "owner":"nobody"  },
+    { "id":2,   "name":"Pictures (Macbook)",    "folder":"/Users/amorin/Pictures",    "owner":"nobody"  },
+    { "id":3,   "name":"Downloads (Bigmac)",    "folder":"/Users/alex/Downloads",     "owner":"nobody"  }
+  ]
+}

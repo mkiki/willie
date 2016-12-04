@@ -1,0 +1,5 @@
+{
+  "loggers": {
+      "willie::main":         { "level": "info" }
+  }
+}

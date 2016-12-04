@@ -1,0 +1,13 @@
+{
+  "discogs": {
+    "key":"<< enter your Discogs API key here >>",
+    "secret":"<< enter your Discogs API sevret here >>"
+  },
+  "collections": [
+    { "id":0,   "name":"Music (Macbook)",   "folder":"/Users/amorin/Music",                       "default": false },
+    { "id":1,   "name":"Alex (BigMac)",     "folder":"/Users/alex/Music/Alex",                    "default": true  },
+    { "id":2,   "name":"Test (BigMac)",     "folder":"/Users/alex/Downloads/Music (test willie)", "default": false }
+  ],
+  "albumsThumbsDir":    "/Users/alex/thumbs/covers",
+  "artistsThumbsDir":   "/Users/alex/thumbs/artists"
+}
